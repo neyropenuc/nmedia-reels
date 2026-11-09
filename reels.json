@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kinder",
+    "title": "KINDER",
+    "views": "2,8 млн",
+    "description": "Собственный рилс студии в стилистике рекламы Kinder Pingui: пингвины, ледяной дом, семейный оркестр с барабаном Kinder и тающий шоколад. Ролик набрал 2,8 млн просмотров. Весь визуал создан с помощью нейросетей.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/kinder/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/kinder/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/kinder/video.mp4"
+    ]
+  },
+  {
+    "id": "arcteryx",
+    "title": "ARC’TERYX",
+    "description": "Экспериментальный ролик в outdoor-эстетике с акцентом на атмосферу, движение и ощущение настоящего приключения. В сценах показали экстремальные условия — снег, ветер, горы и подводные кадры, чтобы передать характер и дух бренда. Отдельное внимание уделили деталям одежды и экипировки: ткани, движению, свету и среде. Весь визуал был создан с помощью ИИ без съёмок, как визуальный эксперимент с реалистичными outdoor-сценами.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/arcteryx/cover.webp",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/arcteryx/bg.webm",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/arcteryx/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/arcteryx/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/arcteryx/photo3.webp"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/arcteryx/video.mp4"
+    ]
+  },
+  {
+    "id": "keos",
+    "title": "KEOS",
+    "description": "Продуктовый рилс для бренда инструментов KEOS: дрель крупным планом со всеми деталями — корпус, патрон, охлаждение, кейс и комплектация. Тёмная студийная подача и акценты на преимуществах продукта. Весь визуал создан с помощью нейросетей на основе фотографий товара.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/keos/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/keos/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/keos/video.mp4"
+    ]
+  },
+  {
+    "id": "wangpack",
+    "title": "WANGPACK",
+    "description": "Серия Reels для производителя термосумок. В роликах сделали акцент на самом продукте — сумку помещали в разные необычные локации, чтобы выделить форму, цвет и брендинг. В кадре использовали сумки одного из брендов, для которых компания производит продукцию, включая Frambini. Весь визуал был создан с помощью ИИ без съёмок и адаптирован под вертикальный формат соцсетей.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/wangpack/cover.webp",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/wangpack/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/photo3.webp"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/video1.mp4",
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/video2.mp4",
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/video3.mp4",
+      "https://neyropenuc.github.io/nmedia-reels/wangpack/video4.mp4"
+    ]
+  },
+  {
+    "id": "levshagroup",
+    "title": "LEVSHA GROUP",
+    "description": "Reels для бренда интерьерного дизайна и мебели. В роликах взяли ключевые предметы интерьера и поместили их в необычные пространства — воду, лес, пустыню и городскую среду. Такой контраст делает мебель главным героем кадра и создаёт более запоминающийся визуал. Все сцены были собраны с помощью ИИ без съёмок, на основе материалов и предметов из ассортимента бренда.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/levshagroup/cover.webp",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/levshagroup/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/levshagroup/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/levshagroup/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/levshagroup/photo3.webp"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/levshagroup/video1.mp4",
+      "https://neyropenuc.github.io/nmedia-reels/levshagroup/video2.mp4"
+    ]
+  }
+]
