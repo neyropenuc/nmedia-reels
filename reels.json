@@ -16,6 +16,36 @@
     ]
   },
   {
+    "id": "rastishka",
+    "title": "РАСТИШКА",
+    "description": "Рилс в стилистике аниме для «Растишки»: героиня проходит путь от слёз до победы на ринге, а Дино всё время рядом. Персонажи узнаваемы от первого до последнего кадра. Весь визуал и анимация созданы с помощью нейросетей.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/rastishka/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/rastishka/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/video.mp4"
+    ]
+  },
+  {
+    "id": "motion-vertical",
+    "title": "МОУШН В CLAUDE",
+    "description": "Вертикальный моушн-ролик о том, как мы теперь делаем моушн-дизайн. Claude не рисует видео, как другие нейросети, — он пишет код: каждая буква и каждый поворот камеры расписаны по времени. Начинаем с брифа — хронометраж, цвета бренда, стиль и настроение, — а дальше доводим до ума. Было: недели работы и серьёзный бюджет. Стало: в разы быстрее.",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-reels/motion-vertical/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/motion-vertical/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-reels/motion-vertical/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-reels/motion-vertical/video.mp4"
+    ]
+  },
+  {
     "id": "arcteryx",
     "title": "ARC’TERYX",
     "description": "Экспериментальный ролик в outdoor-эстетике с акцентом на атмосферу, движение и ощущение настоящего приключения. В сценах показали экстремальные условия — снег, ветер, горы и подводные кадры, чтобы передать характер и дух бренда. Отдельное внимание уделили деталям одежды и экипировки: ткани, движению, свету и среде. Весь визуал был создан с помощью ИИ без съёмок, как визуальный эксперимент с реалистичными outdoor-сценами.",
@@ -33,7 +63,7 @@
   {
     "id": "keos",
     "title": "KEOS",
-    "description": "Продуктовый рилс для бренда инструментов KEOS: дрель крупным планом со всеми деталями — корпус, патрон, охлаждение, кейс и комплектация. Тёмная студийная подача и акценты на преимуществах продукта. Весь визуал создан с помощью нейросетей на основе фотографий товара.",
+    "description": "Продуктовые рилсы для бренда инструментов KEOS: техника крупным планом со всеми деталями — мотор, редуктор, патрон, защита, кейс и комплектация. Тёмная студийная подача и акценты на преимуществах продукта. Весь визуал создан с помощью нейросетей на основе фотографий товара.",
     "preview": "https://neyropenuc.github.io/nmedia-reels/keos/cover.jpg",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/keos/bg.mp4",
     "images": [
@@ -42,7 +72,8 @@
       "https://neyropenuc.github.io/nmedia-reels/keos/photo3.jpg"
     ],
     "videos": [
-      "https://neyropenuc.github.io/nmedia-reels/keos/video.mp4"
+      "https://neyropenuc.github.io/nmedia-reels/keos/video1.mp4",
+      "https://neyropenuc.github.io/nmedia-reels/keos/video2.mp4"
     ]
   },
   {
