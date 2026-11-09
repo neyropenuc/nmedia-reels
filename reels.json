@@ -4,12 +4,12 @@
     "title": "KINDER",
     "views": "2,8 млн",
     "description": "Собственный рилс студии в стилистике рекламы Kinder Pingui: пингвины, ледяной дом, семейный оркестр с барабаном Kinder и тающий шоколад. Ролик набрал 2,8 млн просмотров. Весь визуал создан с помощью нейросетей.",
-    "preview": "https://neyropenuc.github.io/nmedia-reels/kinder/cover.jpg",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/kinder/cover.webp",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/kinder/bg.mp4",
     "images": [
-      "https://neyropenuc.github.io/nmedia-reels/kinder/photo1.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/kinder/photo2.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/kinder/photo3.jpg"
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/kinder/photo3.webp"
     ],
     "videos": [
       "https://neyropenuc.github.io/nmedia-reels/kinder/video.mp4"
@@ -20,12 +20,12 @@
     "title": "РАСТИШКА",
     "views": "1,6 млн",
     "description": "Рилс в стилистике аниме для «Растишки»: героиня проходит путь от слёз до победы на ринге, а Дино всё время рядом. Персонажи узнаваемы от первого до последнего кадра. Весь визуал и анимация созданы с помощью нейросетей.",
-    "preview": "https://neyropenuc.github.io/nmedia-reels/rastishka/cover.jpg",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/rastishka/cover.webp",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/rastishka/bg.mp4",
     "images": [
-      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo1.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo2.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo3.jpg"
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/rastishka/photo3.webp"
     ],
     "videos": [
       "https://neyropenuc.github.io/nmedia-reels/rastishka/video.mp4"
@@ -36,7 +36,7 @@
     "title": "МОУШН-РИЛС",
     "views": "1,2 млн",
     "description": "Вертикальный моушн-ролик о том, как мы теперь делаем моушн-дизайн. Claude не рисует видео, как другие нейросети, — он пишет код: каждая буква и каждый поворот камеры расписаны по времени. Начинаем с брифа — хронометраж, цвета бренда, стиль и настроение, — а дальше доводим до ума. Было: недели работы и серьёзный бюджет. Стало: в разы быстрее.",
-    "preview": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/cover.jpg",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/cover.webp",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/bg.mp4",
     "images": [],
     "videos": [
@@ -62,12 +62,12 @@
     "id": "keos",
     "title": "KEOS",
     "description": "Продуктовые рилсы для бренда инструментов KEOS: техника крупным планом со всеми деталями — мотор, редуктор, патрон, защита, кейс и комплектация. Тёмная студийная подача и акценты на преимуществах продукта. Весь визуал создан с помощью нейросетей на основе фотографий товара.",
-    "preview": "https://neyropenuc.github.io/nmedia-reels/keos/cover.jpg",
+    "preview": "https://neyropenuc.github.io/nmedia-reels/keos/cover.webp",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/keos/bg.mp4",
     "images": [
-      "https://neyropenuc.github.io/nmedia-reels/keos/photo1.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/keos/photo2.jpg",
-      "https://neyropenuc.github.io/nmedia-reels/keos/photo3.jpg"
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo1.webp",
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo2.webp",
+      "https://neyropenuc.github.io/nmedia-reels/keos/photo3.webp"
     ],
     "videos": [
       "https://neyropenuc.github.io/nmedia-reels/keos/video1.mp4",
