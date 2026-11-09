@@ -32,7 +32,7 @@
   },
   {
     "id": "motion-vertical",
-    "title": "МОУШН В CLAUDE",
+    "title": "МОУШН-РИЛС",
     "description": "Вертикальный моушн-ролик о том, как мы теперь делаем моушн-дизайн. Claude не рисует видео, как другие нейросети, — он пишет код: каждая буква и каждый поворот камеры расписаны по времени. Начинаем с брифа — хронометраж, цвета бренда, стиль и настроение, — а дальше доводим до ума. Было: недели работы и серьёзный бюджет. Стало: в разы быстрее.",
     "preview": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/cover.jpg",
     "preview_vid": "https://neyropenuc.github.io/nmedia-reels/motion-vertical/bg.mp4",
